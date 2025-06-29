@@ -6,9 +6,9 @@
 
 <h2>Tech Stack:</h2>
 
-<li><b>ASP.NET 9.0: Back End</b></li>
-<li><b>REACT: Front End</b></li>
-<li><b>MOB-X: Client Side State Management</b></li>
-<li><b>REACT QUERY: Asynchronous Back End API State   Management</b></li>
-<li><b>ENTITY FRAMEWORK:  Database Management</b></li>
-<li><b>PROGRAMMING LANGUAGE: C# & TypeScript</b></li>
+<li><b>ASP.NET 9.0:</b> Back End</li>
+<li><b>REACT:</b> Front End</li>
+<li><b>MOB-X:</b> Client Side State Management</li>
+<li><b>REACT QUERY:</b> Asynchronous Back End API State Management</li>
+<li><b>ENTITY FRAMEWORK:</b>  Database Management</li>
+<li><b>PROGRAMMING LANGUAGE:</b> C# & TypeScript</li>
