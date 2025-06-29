@@ -2,7 +2,7 @@
 
 ![image](/CourseAssets/images/categoryImages/music.jpg)
 
-<h3><em>I will build an social network application that allows users to sign up to events (similar to MeetUp or Facebook)...</em></h3>
+<h3><em>A social network application that allows users to sign up to events (similar to MeetUp or Facebook)...</em></h3>
 
 <h2>Tech Stack:</h2>
 
