@@ -1,4 +1,4 @@
-# Social-DotNetwork 🙏🌐
+# SocialApp-DotNet 🙏🌐
 
 ![image](/CourseAssets/images/categoryImages/music.jpg)
 
